@@ -33,9 +33,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-css-flexbox-e5Vp4FG4Ec/report](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-css-flexbox-e5Vp4FG4Ec/report)
 
-- Live Site URL: []()
+- Live Site URL: [https://tzienom-product-preview-card.netlify.app/](https://tzienom-product-preview-card.netlify.app/)
 
 
 ## My Process
